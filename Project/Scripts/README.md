@@ -32,3 +32,5 @@
 30. VisitHasDiagnosis
 31. VisitHasTreatment 
 
+# Single script that contains all these scripts in the order specified above 
+All.sql 
