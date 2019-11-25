@@ -9,7 +9,7 @@
 7. IntakeClerk
 8. Medication
 9. Nurse
-10. Other_Support
+10. OtherSupport
 11. Parent 
 12. ParentHasPhoneNumbers
 13. Patient 
