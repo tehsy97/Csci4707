@@ -1,1 +1,1 @@
-Store synposis and updated ER/EER diagram here 
+Synposis and Updated ER/EER Diagram 
